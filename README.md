@@ -1,26 +1,23 @@
-# selling
+![GitHub Logo](girls_bike.jpg =250x250)
+![GitHub Logo](basketball_hoop.jpg =250x250)
+![GitHub Logo](candy_land.jpg =250x250)
+![GitHub Logo](chutes_ladders.jpg =250x250)
+![GitHub Logo](computer_chair.jpg =250x250)
+![GitHub Logo](crock-pot.jpg =250x250)
+![GitHub Logo](Honeywell_fan.jpg =250x250)
+![GitHub Logo](Huffy_kids_bike.jpg =250x250)
+![GitHub Logo](instant_pot.jpg =250x250)
+![GitHub Logo](keurig_coffee.jpg =250x250)
+![GitHub Logo](laundry_carrier.jpg =250x250)
+![GitHub Logo](monopoly.jpg =250x250)
+![GitHub Logo](nutribullet.jpg =250x250)
+![GitHub Logo](oster_wine_opener.jpg =250x250)
+![GitHub Logo](pictionary.jpg =250x250)
+![GitHub Logo](pot.jpg =250x250)
+![GitHub Logo](recliner.jpg =250x250)
+![GitHub Logo](stroller.jpg =250x250)
+![GitHub Logo](white_chair.jpg =250x250)
+![GitHub Logo](wilson_nfl_ball.jpg =250x250)
 
-girls_bike.jpg
-!(girls_bike.jpg)
 
-
-basketball_hoop.jpg
-candy_land.jpg
-chutes_ladders.jpg
-computer_chair.jpg
-crock-pot.jpg
-Honeywell_fan.jpg
-Huffy_kids_bike.jpg
-instant_pot.jpg
-keurig_coffee.jpg
-laundry_carrier.jpg
-monopoly.jpg
-nutribullet.jpg
-oster_wine_opener.jpg
-pictionary.jpg
-pot.jpg
-recliner.jpg
-stroller.jpg
-white_chair.jpg
-wilson_nfl_ball.jpg
 
