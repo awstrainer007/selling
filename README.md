@@ -1,6 +1,9 @@
 # selling
 
 girls_bike.jpg
+![GitHub Logo](girls_bike.jpg)
+
+
 basketball_hoop.jpg
 candy_land.jpg
 chutes_ladders.jpg
