@@ -1,4 +1,4 @@
-![GitHub Logo](girls_bike.jpg | width=100)
+![GitHub Logo](girls_bike.jpg) <!-- .element height="50%" width="50%" -->
 ![GitHub Logo](basketball_hoop.jpg | width=100)
 ![GitHub Logo](candy_land.jpg | width=100)
 ![GitHub Logo](chutes_ladders.jpg | width=100)
